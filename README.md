@@ -2,7 +2,6 @@
 Lead CRM Dashboard
 
 ![lead](https://github.com/Khushbooo123/Lead-CRM-Dashboard/assets/52238176/38770a7d-0688-48e8-b30d-2383478639a1)
-
 Project Description:
 
 The Lead CRM Dashboard is a personalized project aimed at creating an efficient Customer Relationship Management (CRM) system using Google Sheets and Excel. This project focuses on organizing, analyzing, and visualizing lead data to enhance decision-making and streamline communication.
