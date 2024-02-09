@@ -8,15 +8,15 @@ The Lead CRM Dashboard is a personalized project aimed at creating an efficient 
 
 # Tools Used:
 
-# Google Sheets: Utilized for real-time collaboration, data storage, and easy accessibility.
+Google Sheets: Utilized for real-time collaboration, data storage, and easy accessibility.
 
-# Excel: Employed for advanced data manipulation, complex calculations, and customized reporting.
+Excel: Employed for advanced data manipulation, complex calculations, and customized reporting.
 
-# Charts: Implemented to visually represent lead data trends, aiding in quick comprehension.
+Charts: Implemented to visually represent lead data trends, aiding in quick comprehension.
 
-# Tables: Structured data in a tabular format for organized and systematic handling.
+Tables: Structured data in a tabular format for organized and systematic handling.
 
-# Formulas & Functions: Leveraged for automated calculations, data validation, and dynamic content.
+Formulas & Functions: Leveraged for automated calculations, data validation, and dynamic content.
 
 # Project Goal:
 
