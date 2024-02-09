@@ -34,4 +34,4 @@ Streamlining communication and collaboration among team members involved in lead
 
 Additional Details:
 
-This project emphasizes simplicity, usability, and scalability. The goal is to offer a versatile CRM solution that can be easily customized to accommodate various business requirements. Regular updates and improvements will be made to adapt to evolving needs and technologies.
+This project emphasizes simplicity, usability, and scalability. The goal is to offer a versatile CRM solution that can be easily customized to accommodate various business requirements.
